@@ -1,3 +1,1 @@
-print("new hola git!")
-
-print("new hola git!")
+print("cambiando hellogit.py")
